@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 IIT Gandhinagar
-- 📫 How to reach me: fb.com/cpatel321 
+- 🔭 Btech CSE at IIT Gandhinagar
+- 📫 Reach me at LinkedIn: https://www.linkedin.com/in/cpatel321/ 
 <!--
 **cpatel321/cpatel321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
